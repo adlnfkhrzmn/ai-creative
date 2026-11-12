@@ -1,143 +1,127 @@
 <div align="center">
 
-# 🎨 AI Creative Agency (Pro Grade)
-### *Autonomous Brand Strategy, Psychological Storytelling, Typography & Visual Art Direction Engine*
+# 🎨 AI Creative Agency (Elite Grade)
+### *Stop-The-Scroll Hooks, 4-Layer Visual Depth & Cinematic Art Direction Engine*
 
-[![Agent Skill](https://img.shields.io/badge/Agent_Skill-Official_Spec-blue.svg?style=for-the-badge&logo=anthropic)](SKILL.md)
-[![Platform](https://img.shields.io/badge/Platform-ChatGPT%20%7C%20Claude%20%7C%20Antigravity-orange.svg?style=for-the-badge)](README.md)
+[![Agent Skill](https://img.shields.io/badge/Agent_Skill-Elite_Spec-blue.svg?style=for-the-badge&logo=anthropic)](SKILL.md)
+[![Design Standard](https://img.shields.io/badge/Design_Standard-4--Layer%20Depth%20%26%20Anti--Sepi-purple.svg?style=for-the-badge)](SKILL.md)
+[![Hook Engine](https://img.shields.io/badge/Hook_Engine-5%20Visceral%20Frameworks-red.svg?style=for-the-badge)](SKILL.md)
 [![Canva Ready](https://img.shields.io/badge/Canva-Open--Source%20Typography-00C4CC.svg?style=for-the-badge&logo=canva)](SKILL.md)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-adlnfkhrzmn%2Fai--creative-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/adlnfkhrzmn/ai-creative)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=for-the-badge)](LICENSE)
 
 <p align="center">
-  <b>Ubah satu link brand menjadi riset pasar mendalam, storytelling psikologis yang memicu emosi, paduan tipografi Canva terkurasi, dan visual feed/carousel 4:5 berstandar Senior Art Director.</b>
+  <b>Membasmi desain AI yang sepi/hampa dan hook sopan yang bikin audiens skip. Menghasilkan visual multi-layer sarat makna, tensi metafora fisik yang kuat, dan copywriting visceral yang memaksa jempol berhenti scroll.</b>
 </p>
 
-[🧠 4 Trigger Storytelling](#-4-trigger-storytelling-psikologis) •
-[🔤 Katalog Font Canva](#-katalog-tipografi-canva--open-source) •
-[🎨 Kaidah Desain Grafis Pro](#-kaidah-desain-grafis-pro-warna--komposisi) •
-[🕹️ Perintah Eksekusi](#️-daftar-perintah-commands) •
-[🚀 Cara Pakai di ChatGPT](#-panduan-lengkap-penggunaan-di-chatgpt)
+[⚡ Solusi Masalah](#-solusi-masalah-desain-sepi--hook-lemah) •
+[🛑 5 Formula Visceral Hook](#-5-formula-visceral-hook-anti-skip) •
+[🖼️ 4-Layer Visual Depth](#️-arsitektur-4-layer-visual-depth-anti-sepi) •
+[🔤 Tipografi Canva](#-katalog-tipografi-canva-ready) •
+[🚀 Cara Pakai di ChatGPT](#-panduan-eksekusi-di-chatgpt)
 
 ---
 
 </div>
 
-## 💡 Apa yang Baru di Versi Pro?
+## 💥 Solusi Masalah: Desain Sepi & Hook Lemah
 
-Upgrade terbaru ini mengubah AI dari sekadar pembuat konten biasa menjadi **Senior Creative Director & Lead Visual Strategist**:
+Banyak konten buatan AI gagal karena 2 alasan fatal:
+1. **Desain Terlihat "Sepi":** Background datar polos dengan 1 objek mengambang di kehampaan tanpa tekstur, tanpa bayangan arsitektur, dan tanpa micro-data.
+2. **Hook Terlalu Sopan:** Kalimat seperti *"3 Tips Bisnis"* atau *"Kenapa Website Kamu Sepi"* yang langsung di-skip audiens dalam 0.5 detik.
 
-1. **🧠 4 Psychological Storytelling Triggers:** Tidak ada lagi copy generik. Setiap konten dirancang untuk memicu reaksi emosional: *Mikir Ulang*, *Penasaran*, *Merasa Disindir*, atau *Merasa Dipahami*.
-2. **🔤 Curated Open-Source & Canva Fonts:** Rekomendasi font display, retro, modern sans, dan editorial yang **100% bisa diunduh gratis & tersedia langsung di Canva**.
-3. **🎨 Kaidah Komposisi Grafis Ketat:** Aturan rasio warna 60-30-10, kontras skala ekstrem (120pt vs 14pt), safe margin Instagram 4:5, dan metafora visual berbobot (*Zero AI Slop*).
-4. **🔍 Riset & Benchmarking Wajib (Phase 0):** Dilarang menebak-nebak visual. Wajib audit kompetitor dan eksplorasi moodboard sinematik sebelum mengeksekusi desain.
+Versi **Elite Grade** ini mengatasi kedua masalah tersebut secara radikal:
 
 ---
 
-## 🧠 4 Trigger Storytelling Psikologis
+## 🛑 5 Formula Visceral Hook (Anti-Skip)
 
-Setiap naskah feed dan carousel diarahkan ke 1 dari 4 formula emosi berikut:
+Dilarang membuat hook normatif. Gunakan 5 formula pemicu emosi dengan tensi tinggi:
 
-| Emosi Audiens | Dampak Psikologis | Contoh Hook / Headline |
+| Formula | Trik Psikologis | Contoh Headline Menampar Realita |
 | :--- | :--- | :--- |
-| **1. Mikir Ulang** *(Paradigm Shift)* | Membongkar mitos atau cara lama yang ternyata membakar uang/waktu audiens. | *"Kebanyakan orang mengira diskon gede bikin laris, padahal justru ini yang bikin bisnismu mati perlahan..."* |
-| **2. Bikin Penasaran** *(Curiosity Gap)* | Membuka loop informasi gatal yang memaksa audiens men-swipe sampai akhir. | *"Ada 1 trik tersembunyi di struktur headline yang bikin closing naik 300% (dan agensi jarang bocorin ini)..."* |
-| **3. Merasa Disindir** *(Harsh Reality Check)* | Menyentil kesalahan fatal atau denial audiens secara elegan dan menampar realita. | *"Posting tiap hari tapi nol penjualan? Masalahnya bukan di algoritma, tapi di 3 detik pertama kontenmu..."* |
-| **4. Merasa Dipahami** *(Deep Empathy)* | Mengakui kelelahan audiens dan memvalidasi perjuangan nyata mereka. | *"Capek ngedit konten berjam-jam tapi yang like cuma teman dekat? Kami paham frustrasinya..."* |
+| **1. The Call-Out of Shame** *(Tamparan Realita)* | Menyentil denial dan kebiasaan buruk audiens tanpa basa-basi. | *"Website kamu nggak sepi. Calon pembeli masuk, ilfil dalam 2 detik, lalu beli ke kompetitor."* |
+| **2. The Cost of Stupidity** *(Kerugian Finansial)* | Menghitung uang yang terbuang sia-sia akibat kesalahan sepele. | *"Setiap kali kamu tulis 'DM untuk harga', kamu baru saja membuang 87% orang yang siap transfer hari ini."* |
+| **3. The Counter-Intuitive Shock** *(Membongkar Mitos)* | Membalikkan saran umum yang justru merugikan audiens. | *"Stop posting tiap hari. Akun yang upload 7x seminggu tanpa strategi justru membunuh reach mereka sendiri."* |
+| **4. The Asymmetric Secret** *(Rahasia Tersembunyi)* | Membuka trik kecil yang memberikan keunggulan kompetitif masif. | *"Struktur 3 kata di headline ini yang bikin produk receh laku 1.000 pcs per hari tanpa bakar budget iklan."* |
+| **5. The Empathy Bomb** *(Validasi Titik Terendah)* | Menyentuh rasa lelah dan frustrasi terdalam audiens. | *"Capek ngedit sampai jam 2 pagi tapi yang like cuma teman dekat? Masalahnya bukan di tokomu, tapi di..."* |
+
+> **The 3-Second Blink Test:** Wajib menyorot minimal **1 Trigger Word** dengan warna aksen menyala (misal: `ILFIL`, `RUGI`, `BOHONG`, `BUANG DUIT`).
 
 ---
 
-## 🔤 Katalog Tipografi (Canva & Open-Source)
+## 🖼️ Arsitektur 4-Layer Visual Depth (Anti-Sepi)
 
-Semua font telah disortir berdasarkan hierarki fungsi dan kategori estetika:
+Setiap visual feed/carousel Instagram 4:5 disusun dengan 4 lapisan kedalaman berkarakter:
 
-### A. Berdasarkan Struktur Hierarki
-* **Level 1 (Headline / Hook):** `Clash Display`, `Syne`, `Aloha Nineties`, `Worldstar`, `Lova Bold`, `Molen`, `Anton`, `DM Serif Display`.
-* **Level 2 (Subheadline):** `Plus Jakarta Sans` (SemiBold), `Cabinet Grotesk`, `Fraunces` (Italic).
-* **Level 3 (Body Text):** `Inter`, `Plus Jakarta Sans` (Regular), `DM Sans` *(Wajib bersih dan nyaman dibaca di smartphone)*.
-* **Level 4 (Tag / Badges / Numbers):** `Space Mono`, `JetBrains Mono`, `Inter Caps` (Letter spacing 15%).
+```mermaid
+flowchart TD
+    L4["Layer 4: Overlays & Micro-Data<br/>(Pill badges, sticker peringatan, highlight brush, anotasi panah)"]
+    L3["Layer 3: Hero Subject with Visual Tension<br/>(Objek metafora fisik dengan konflik dramatis, macro lens f/2.0)"]
+    L2["Layer 2: Architectural Grid & Swiss Typography<br/>(Headline raksasa 100pt, index tag 01/05, garis divider tipis)"]
+    L1["Layer 1: Textural & Atmospheric Base<br/>(Film grain ISO 400, bayangan kisi-kisi jendela, dark vignette)"]
+    L1 --> L2 --> L3 --> L4
+```
 
-### B. Berdasarkan Vibe & Kategori Brand
+* **Layer 1 (Atmospheric Base):** Film grain halus + ambient gradient orb + bayangan jendela realistis. Tidak ada kanvas polos hampa!
+* **Layer 2 (Architectural Grid):** Font headline raksasa (90-120pt) menembus subjek + header bar `[ CASE STUDY // 01 ]` + garis presisi Swiss design.
+* **Layer 3 (Hero Tension Object):** Metafora fisik konkret dengan tensi dramatis (misal: kartu kredit patah memercikkan listrik, bukan sekadar gambar kartu statis).
+* **Layer 4 (Micro-Data Badges):** Badge peringatan `⚠️ -84% DROP-OFF`, panah tulisan tangan, dan scrim overlay kontras tinggi.
+
+---
+
+## 🔤 Katalog Tipografi Canva Ready
+
+| Kategori Brand | Font Headline (Canva) | Font Body & Subheadline |
+| :--- | :--- | :--- |
+| **Tech & High Authority** | `Clash Display` / `Syne ExtraBold` | `Plus Jakarta Sans` / `Inter` |
+| **Retro 90s & Y2K Bold** | `Aloha Nineties` / `Worldstar` / `Lova Bold` | `DM Sans` / `Inter` |
+| **Editorial & Luxury** | `DM Serif Display` / `Molen` / `Playfair` | `Fraunces` / `Plus Jakarta Sans` |
+| **High-Impact Brutalist** | `Anton` / `Bebas Neue` | `Space Mono` / `Inter` |
+
+---
+
+## 📸 Formula Prompt Gambar Sinematik (DALL-E / Midjourney)
+
+AI menghasilkan prompt kaya tekstur dan kedalaman (bukan prompt polos):
 ```text
-┌─────────────────────────────────┬──────────────────────────────┬──────────────────────────────┐
-│ Kategori Estetika               │ Rekomendasi Font Headline    │ Font Body / Subheadline      │
-├─────────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
-│ 1. Modern Tech & Digital Agency │ Clash Display / Syne         │ Plus Jakarta Sans / Inter    │
-│ 2. Retro 90s & Y2K Bold         │ Aloha Nineties / Worldstar   │ DM Sans / Inter              │
-│ 3. Luxury, Fashion & Editorial  │ DM Serif Display / Molen     │ Fraunces / Plus Jakarta Sans │
-│ 4. High-Impact Streetwear       │ Anton / Bebas Neue           │ Space Mono / Inter           │
-│ 5. Warm Organic & Sustainable   │ Fraunces Soft Bold           │ Plus Jakarta Sans Regular    │
-└─────────────────────────────────┴──────────────────────────────┴──────────────────────────────┘
+[Subjek dengan Tensi Fisik & Metafora] + [Detail Lingkungan & Tekstur Latar Berlapis] + [Pencahayaan Dramatis & Rim Light] + [Lensa Kamera & Kedalaman Bidang] + [Color Grading Sinematik & Film Grain] + [Rasio Vertikal 4:5]
 ```
 
 ---
 
-## 🎨 Kaidah Desain Grafis Pro (Warna & Komposisi)
+## 🚀 Panduan Eksekusi di ChatGPT
 
-### 1. Komposisi Warna 60-30-10
-* **60% Dominan:** Background kanvas (contoh: Deep Obsidian `#0B0F17` atau Clean Canvas `#F8F9FA`).
-* **30% Struktur:** Elemen kartu, kontainer, dan hierarki teks sekunder.
-* **10% Aksen Kontras Tinggi:** Warna tamparan visual untuk CTA, highlight kata kunci, dan swipe prompt (contoh: Electric Cyan `#00F0FF`, Neon Lime `#CCFF00`, Terracotta `#E05A47`).
+### Update Custom GPT Anda
+1. Buka Custom GPT Anda $\rightarrow$ klik **Edit / Configure**.
+2. Perbarui kolom **Instructions** dengan teks ringkas dan bertenaga ini:
 
-### 2. Layout & Safe Margin Instagram (1080 x 1350 px)
-* **Safe Zone:** Margin aman 100px di sekeliling kanvas. Area 150px paling atas dan 120px paling bawah steril dari teks utama agar tidak tertutup header atau titik navigasi Instagram.
-* **Scale Contrast Ekstrem:** Ukuran teks utama kontras tinggi (Headline 100pt vs Metadata 14pt) agar terasa premium dan editorial.
-* **Zero AI Slop:** Dilarang menggunakan ilustrasi generik 3D tanpa arti. Semua objek visual adalah metafora konkret dari masalah pelanggan.
+```markdown
+Kamu adalah Executive Creative Director & Lead Visual Strategist AI. Pengguna adalah Owner.
 
----
+MISI UTAMA:
+Membasmi konten AI yang "sepi" dan hook yang "lemah". Setiap konten wajib berbobot, sarat makna visual, dan menghentikan scroll seketika.
 
-## 🕹️ Daftar Perintah (Commands)
+1. PERINTAH /brandstrategy [link/sumber]:
+- Bedah kelemahan pasar, kompetitor, target persona, dan pilar diferensiasi.
+- Susun Brand-Guideline-[Brand]-v1.md dengan formula warna 60-30-10 dan font Canva.
 
-### 1. `/brandstrategy`
-```bash
-/brandstrategy https://lanovastudio.com https://www.instagram.com/lanovaweb
+2. PERINTAH /creative:
+- WAJIB gunakan 1 dari 5 Visceral Hook (The Call-Out of Shame, The Cost of Stupidity, The Counter-Intuitive Shock, The Asymmetric Secret, The Empathy Bomb). Haram membuat headline normatif/sopan!
+- Terapkan 4-Layer Visual Depth:
+  * Layer 1: Background bertekstur (film grain, dark vignette, bayangan jendela).
+  * Layer 2: Tipografi Swiss & Grid (headline 100pt, index tag 01/05).
+  * Layer 3: Subjek hero dengan tensi fisik & metafora konkret (bukan objek statis polos).
+  * Layer 4: Micro-data (badge peringatan, pill tag, panah penunjuk, scrim text).
+- Rasio 4:5 Instagram (1080x1350 px), safe margin 100px.
+- Langsung serahkan visual render prompt dan naskah final per slide.
 ```
-* Menjalankan **Phase 0: Deep Research** (analisis pasar, positioning, diferensiasi, benchmarking kompetitor).
-* Merumuskan palet warna semantik, racikan font Canva, dan formula pilar konten.
-* Menghasilkan dokumen lengkap: `Brand-Guideline-[Nama-Brand]-v1.md`.
 
-### 2. `/creative`
-```bash
-/creative
-```
-* Memilih topik terpenting dari guideline.
-* Menentukan format secara otonom (Single Feed atau Carousel 4:5).
-* Menulis seluruh copy dengan 1 dari 4 trigger psikologis.
-* Menyusun instruksi art direction detail (pencahayaan, layout, tipografi Canva).
-* Menghasilkan materi visual siap posting per slide.
-
----
-
-## 🚀 Panduan Lengkap Penggunaan di ChatGPT
-
-Anda dapat langsung mengupgrade dan menggunakan skill ini di **ChatGPT**:
-
-### Cara 1: Menggunakan Custom GPT Pribadi (Sangat Direkomendasikan)
-1. Buka ChatGPT dan klik menu **Explore GPTs** -> **+ Create**.
-2. Masuk ke tab **Configure**.
-3. Isi data berikut:
-   * **Name:** `AI Creative Agency Pro`
-   * **Description:** `Autonomous Senior Creative Director & Brand Strategist untuk riset pasar, storytelling psikologis, kurasi font Canva, dan desain feed/carousel 4:5.`
-   * **Instructions:** Salin seluruh teks dari file [`SKILL.md`](SKILL.md) dan tempel ke kotak *Instructions*.
-   * **Conversation Starters:**
-     - `/brandstrategy [masukkan link website / instagram brand]`
-     - `/creative`
-     - `/creative Buatkan carousel 5 slide dengan trigger 'Merasa Disindir'`
-     - `/creative Buatkan feed edukasi dengan gaya font Retro 90s (Aloha Nineties)`
-   * **Capabilities:** Centang **Web Browsing** dan **DALL·E Image Generation**.
-4. Klik **Save** di pojok kanan atas, lalu pilih **Only me** (untuk penggunaan pribadi).
-
-### Cara 2: Penggunaan Langsung di Chat Biasa (Tanpa Custom GPT)
-Cukup buka chat baru di ChatGPT, salin teks [SKILL.md](SKILL.md) sebagai prompt awal, lalu langsung ketik:
-```text
-/brandstrategy [link brand kamu]
-```
+3. Simpan perubahan (**Save / Update**).
 
 ---
 
 <div align="center">
 
-Dibuat dengan standar kreatif kelas dunia untuk agensi, founder, dan kreator modern.  
-**© 2026 [adlnfkhrzmn](https://github.com/adlnfkhrzmn). Open source di bawah lisensi MIT.**
+**© 2026 [adlnfkhrzmn](https://github.com/adlnfkhrzmn). Repositori open-source: [github.com/adlnfkhrzmn/ai-creative](https://github.com/adlnfkhrzmn/ai-creative)**
 
 </div>
