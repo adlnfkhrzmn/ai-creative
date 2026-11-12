@@ -1,163 +1,143 @@
 <div align="center">
 
-# 🎨 AI Creative Agency
-### *Autonomous Brand Strategy, Viral Copywriting & Art Direction Engine*
+# 🎨 AI Creative Agency (Pro Grade)
+### *Autonomous Brand Strategy, Psychological Storytelling, Typography & Visual Art Direction Engine*
 
 [![Agent Skill](https://img.shields.io/badge/Agent_Skill-Official_Spec-blue.svg?style=for-the-badge&logo=anthropic)](SKILL.md)
 [![Platform](https://img.shields.io/badge/Platform-ChatGPT%20%7C%20Claude%20%7C%20Antigravity-orange.svg?style=for-the-badge)](README.md)
+[![Canva Ready](https://img.shields.io/badge/Canva-Open--Source%20Typography-00C4CC.svg?style=for-the-badge&logo=canva)](SKILL.md)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-adlnfkhrzmn%2Fai--creative-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/adlnfkhrzmn/ai-creative)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=for-the-badge)](LICENSE)
 
 <p align="center">
-  <b>Ubah satu link brand menjadi strategi komprehensif, copywriting berdaya konversi tinggi, hingga visual feed & carousel siap posting tanpa bolak-balik mikir.</b>
+  <b>Ubah satu link brand menjadi riset pasar mendalam, storytelling psikologis yang memicu emosi, paduan tipografi Canva terkurasi, dan visual feed/carousel 4:5 berstandar Senior Art Director.</b>
 </p>
 
-[⚡ Fitur Unggulan](#-fitur-unggulan) •
-[🕹️ Daftar Perintah](#️-daftar-perintah--commands) •
-[📱 Alur Kerja Otomatis](#-alur-kerja-otomatis) •
-[🚀 Cara Penggunaan di ChatGPT](#-cara-penggunaan-di-chatgpt) •
-[🛠️ Cara Penggunaan di AI Agent / IDE](#️-cara-penggunaan-di-ai-agent--ide)
+[🧠 4 Trigger Storytelling](#-4-trigger-storytelling-psikologis) •
+[🔤 Katalog Font Canva](#-katalog-tipografi-canva--open-source) •
+[🎨 Kaidah Desain Grafis Pro](#-kaidah-desain-grafis-pro-warna--komposisi) •
+[🕹️ Perintah Eksekusi](#️-daftar-perintah-commands) •
+[🚀 Cara Pakai di ChatGPT](#-panduan-lengkap-penggunaan-di-chatgpt)
 
 ---
 
 </div>
 
-## 💡 Apa itu AI Creative Agency?
+## 💡 Apa yang Baru di Versi Pro?
 
-**AI Creative Agency** adalah sistem *agentic workflow* otonom yang berperan layaknya agensi periklanan digital kelas dunia. Pengguna bertindak sebagai **Owner** yang hanya perlu menyodorkan link atau materi brand di awal dan menerima output jadi yang siap pakai.
+Upgrade terbaru ini mengubah AI dari sekadar pembuat konten biasa menjadi **Senior Creative Director & Lead Visual Strategist**:
 
-AI menangani seluruh proses kreatif di balik layar:
-- 🔍 **Riset Pasar & Pesaing:** Membedah positioning, value proposition, dan pain points pelanggan.
-- 📐 **Brand Guideline Lengkap:** Otomatis merumuskan palet warna, tipografi, tone of voice, dan pilar konten.
-- ✍️ **Direct-Response Copywriting:** Merancang headline tajam, hook pencegah scroll, dan CTA bertenaga.
-- 🖼️ **Art Direction Sinematik:** Komposisi visual presisi, pencahayaan realistis, dan layout mobile-friendly.
-- 📸 **Produksi Visual Siap Posting:** Menghasilkan materi single-post atau carousel Instagram 4:5 berkualitas tinggi.
+1. **🧠 4 Psychological Storytelling Triggers:** Tidak ada lagi copy generik. Setiap konten dirancang untuk memicu reaksi emosional: *Mikir Ulang*, *Penasaran*, *Merasa Disindir*, atau *Merasa Dipahami*.
+2. **🔤 Curated Open-Source & Canva Fonts:** Rekomendasi font display, retro, modern sans, dan editorial yang **100% bisa diunduh gratis & tersedia langsung di Canva**.
+3. **🎨 Kaidah Komposisi Grafis Ketat:** Aturan rasio warna 60-30-10, kontras skala ekstrem (120pt vs 14pt), safe margin Instagram 4:5, dan metafora visual berbobot (*Zero AI Slop*).
+4. **🔍 Riset & Benchmarking Wajib (Phase 0):** Dilarang menebak-nebak visual. Wajib audit kompetitor dan eksplorasi moodboard sinematik sebelum mengeksekusi desain.
 
 ---
 
-## 📱 Alur Kerja Otomatis
+## 🧠 4 Trigger Storytelling Psikologis
 
-```mermaid
-flowchart LR
-    A["👤 Owner Masukkan Link/Aset"] --> B["⚡ /brandstrategy<br/>(Riset & Brand Guideline)"]
-    B --> C["📄 Brand-Guideline-[Brand]-v1.md"]
-    C --> D["🎨 /creative<br/>(Copywriting + Art Direction)"]
-    D --> E["🖼️ Visual Final Siap Posting<br/>(Single Feed / Multi-Slide Carousel)"]
-    E --> F{"💬 Feedback Owner"}
-    F -- "Instruksi / Revisi" --> D
-    F -- "Aturan Permanen" --> B
+Setiap naskah feed dan carousel diarahkan ke 1 dari 4 formula emosi berikut:
+
+| Emosi Audiens | Dampak Psikologis | Contoh Hook / Headline |
+| :--- | :--- | :--- |
+| **1. Mikir Ulang** *(Paradigm Shift)* | Membongkar mitos atau cara lama yang ternyata membakar uang/waktu audiens. | *"Kebanyakan orang mengira diskon gede bikin laris, padahal justru ini yang bikin bisnismu mati perlahan..."* |
+| **2. Bikin Penasaran** *(Curiosity Gap)* | Membuka loop informasi gatal yang memaksa audiens men-swipe sampai akhir. | *"Ada 1 trik tersembunyi di struktur headline yang bikin closing naik 300% (dan agensi jarang bocorin ini)..."* |
+| **3. Merasa Disindir** *(Harsh Reality Check)* | Menyentil kesalahan fatal atau denial audiens secara elegan dan menampar realita. | *"Posting tiap hari tapi nol penjualan? Masalahnya bukan di algoritma, tapi di 3 detik pertama kontenmu..."* |
+| **4. Merasa Dipahami** *(Deep Empathy)* | Mengakui kelelahan audiens dan memvalidasi perjuangan nyata mereka. | *"Capek ngedit konten berjam-jam tapi yang like cuma teman dekat? Kami paham frustrasinya..."* |
+
+---
+
+## 🔤 Katalog Tipografi (Canva & Open-Source)
+
+Semua font telah disortir berdasarkan hierarki fungsi dan kategori estetika:
+
+### A. Berdasarkan Struktur Hierarki
+* **Level 1 (Headline / Hook):** `Clash Display`, `Syne`, `Aloha Nineties`, `Worldstar`, `Lova Bold`, `Molen`, `Anton`, `DM Serif Display`.
+* **Level 2 (Subheadline):** `Plus Jakarta Sans` (SemiBold), `Cabinet Grotesk`, `Fraunces` (Italic).
+* **Level 3 (Body Text):** `Inter`, `Plus Jakarta Sans` (Regular), `DM Sans` *(Wajib bersih dan nyaman dibaca di smartphone)*.
+* **Level 4 (Tag / Badges / Numbers):** `Space Mono`, `JetBrains Mono`, `Inter Caps` (Letter spacing 15%).
+
+### B. Berdasarkan Vibe & Kategori Brand
+```text
+┌─────────────────────────────────┬──────────────────────────────┬──────────────────────────────┐
+│ Kategori Estetika               │ Rekomendasi Font Headline    │ Font Body / Subheadline      │
+├─────────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+│ 1. Modern Tech & Digital Agency │ Clash Display / Syne         │ Plus Jakarta Sans / Inter    │
+│ 2. Retro 90s & Y2K Bold         │ Aloha Nineties / Worldstar   │ DM Sans / Inter              │
+│ 3. Luxury, Fashion & Editorial  │ DM Serif Display / Molen     │ Fraunces / Plus Jakarta Sans │
+│ 4. High-Impact Streetwear       │ Anton / Bebas Neue           │ Space Mono / Inter           │
+│ 5. Warm Organic & Sustainable   │ Fraunces Soft Bold           │ Plus Jakarta Sans Regular    │
+└─────────────────────────────────┴──────────────────────────────┴──────────────────────────────┘
 ```
+
+---
+
+## 🎨 Kaidah Desain Grafis Pro (Warna & Komposisi)
+
+### 1. Komposisi Warna 60-30-10
+* **60% Dominan:** Background kanvas (contoh: Deep Obsidian `#0B0F17` atau Clean Canvas `#F8F9FA`).
+* **30% Struktur:** Elemen kartu, kontainer, dan hierarki teks sekunder.
+* **10% Aksen Kontras Tinggi:** Warna tamparan visual untuk CTA, highlight kata kunci, dan swipe prompt (contoh: Electric Cyan `#00F0FF`, Neon Lime `#CCFF00`, Terracotta `#E05A47`).
+
+### 2. Layout & Safe Margin Instagram (1080 x 1350 px)
+* **Safe Zone:** Margin aman 100px di sekeliling kanvas. Area 150px paling atas dan 120px paling bawah steril dari teks utama agar tidak tertutup header atau titik navigasi Instagram.
+* **Scale Contrast Ekstrem:** Ukuran teks utama kontras tinggi (Headline 100pt vs Metadata 14pt) agar terasa premium dan editorial.
+* **Zero AI Slop:** Dilarang menggunakan ilustrasi generik 3D tanpa arti. Semua objek visual adalah metafora konkret dari masalah pelanggan.
 
 ---
 
 ## 🕹️ Daftar Perintah (Commands)
 
 ### 1. `/brandstrategy`
-Gunakan perintah ini saat pertama kali memulai proyek atau menganalisis brand baru.
 ```bash
 /brandstrategy https://lanovastudio.com https://www.instagram.com/lanovaweb
 ```
-* **Input Minimum:** Satu link website, profil medsos, atau dokumen pengenal brand.
-* **Proses di Balik Layar:**
-  1. Menganalisis model bisnis, penawaran, dan target audiens potensial.
-  2. Menganalisis pesaing dan alternatif yang dipertimbangkan pelanggan.
-  3. Merumuskan *Big Idea*, *Value Proposition*, dan *Tone of Voice*.
-  4. Menyusun palet warna fungsional, tipografi, dan pilar konten.
-  5. Menentukan **First Creative Deliverable** yang paling berdampak untuk langsung diproduksi.
-* **Output:** Dokumen `Brand-Guideline-[Nama-Brand]-v1.md` yang berdiri sendiri dan komprehensif. *(Lihat contoh: [`examples/Brand-Guideline-Example.md`](examples/Brand-Guideline-Example.md))*.
-
----
+* Menjalankan **Phase 0: Deep Research** (analisis pasar, positioning, diferensiasi, benchmarking kompetitor).
+* Merumuskan palet warna semantik, racikan font Canva, dan formula pilar konten.
+* Menghasilkan dokumen lengkap: `Brand-Guideline-[Nama-Brand]-v1.md`.
 
 ### 2. `/creative`
-Gunakan perintah ini untuk memproduksi konten visual dan copywriting langsung dari guideline yang sudah ada.
 ```bash
 /creative
 ```
-* **Input Minimum:** Dokumen Brand Guideline (atau riwayat obrolan sebelumnya).
-* **Proses di Balik Layar:**
-  1. Memilih tujuan dan angle konten terprioritas dari guideline.
-  2. Menentukan format secara otonom (Single post atau Carousel 4:5).
-  3. Menulis hook, headline bertingkat, body text, dan CTA.
-  4. Merancang arahan art direction visual (pencahayaan, tekstur, sudut kamera).
-  5. Menghasilkan visual final (menggunakan image generator seperti DALL-E/Midjourney/Imagen) dan melakukan QA keterbacaan teks di smartphone.
-* **Output:** Materi visual final per slide sesuai urutan beserta catatan keputusan kreatif penting.
+* Memilih topik terpenting dari guideline.
+* Menentukan format secara otonom (Single Feed atau Carousel 4:5).
+* Menulis seluruh copy dengan 1 dari 4 trigger psikologis.
+* Menyusun instruksi art direction detail (pencahayaan, layout, tipografi Canva).
+* Menghasilkan materi visual siap posting per slide.
 
 ---
 
-## 📑 Aturan Khusus Carousel & Template
+## 🚀 Panduan Lengkap Penggunaan di ChatGPT
 
-### 🎠 Struktur Baku Carousel
-| Slide | Peran & Tujuan | Kunci Sukses |
-| :--- | :--- | :--- |
-| **Slide 1 (Hook)** | Menghentikan scroll penonton dalam 1 detik pertama. | Headline dramatis / visual kontras tinggi / pertanyaan retoris tajam. |
-| **Slide 2 s/d N-1** | Menghantarkan informasi baru secara berkesinambungan. | Headline antar-slide bersambung seperti bab novel; tidak boleh mengulang ide. |
-| **Slide Terakhir (CTA)** | Mengonversi penonton menjadi tindakan nyata. | Ajakan follow, DM, klik link bio, atau konsultasi gratis yang spesifik. |
+Anda dapat langsung mengupgrade dan menggunakan skill ini di **ChatGPT**:
 
-### 🔒 Kuncian Elemen & Template Owner
-AI Creative Agency secara mutlak mematuhi instruksi khusus dari Owner:
-* **Instruksi Kunci:** Frasa *"jangan ubah logo"*, *"hanya ubah headline slide 2"*, atau *"gunakan template terlampir"* akan mengunci elemen lainnya dan hanya memodifikasi teks/elemen yang diizinkan.
-* **Aturan Permanen:** Frasa *"mulai sekarang"* otomatis dicatat dan dimasukkan ke revisi dokumen Brand Guideline berikutnya agar terus diingat pada sesi mendatang.
-
----
-
-## 🚀 Cara Penggunaan di ChatGPT
-
-Anda dapat menggunakan skill ini langsung di **ChatGPT** (baik versi gratis maupun Plus):
-
-### Metode A: Via Custom GPT (Pribadi)
+### Cara 1: Menggunakan Custom GPT Pribadi (Sangat Direkomendasikan)
 1. Buka ChatGPT dan klik menu **Explore GPTs** -> **+ Create**.
 2. Masuk ke tab **Configure**.
-3. Isi kolom:
-   - **Name:** `AI Creative Agency`
-   - **Description:** `Creative agency otonom untuk riset brand, strategi konten, copywriting, dan visual feed/carousel.`
-   - **Instructions:** Buka dan salin seluruh teks dari file [`SKILL.md`](SKILL.md).
-   - **Conversation Starters:**
-     - `/brandstrategy [masukkan link website brand kamu]`
+3. Isi data berikut:
+   * **Name:** `AI Creative Agency Pro`
+   * **Description:** `Autonomous Senior Creative Director & Brand Strategist untuk riset pasar, storytelling psikologis, kurasi font Canva, dan desain feed/carousel 4:5.`
+   * **Instructions:** Salin seluruh teks dari file [`SKILL.md`](SKILL.md) dan tempel ke kotak *Instructions*.
+   * **Conversation Starters:**
+     - `/brandstrategy [masukkan link website / instagram brand]`
      - `/creative`
-     - `/creative Buatkan carousel 5 slide untuk edukasi audiens`
-   - **Capabilities:** Centang `Web Browsing` dan `DALL·E Image Generation`.
-4. Klik **Save** dan pilih **Only me** (untuk penggunaan pribadi).
+     - `/creative Buatkan carousel 5 slide dengan trigger 'Merasa Disindir'`
+     - `/creative Buatkan feed edukasi dengan gaya font Retro 90s (Aloha Nineties)`
+   * **Capabilities:** Centang **Web Browsing** dan **DALL·E Image Generation**.
+4. Klik **Save** di pojok kanan atas, lalu pilih **Only me** (untuk penggunaan pribadi).
 
-### Metode B: Sambungkan via GitHub Integration / Copilot
-1. Buka ChatGPT atau platform AI yang mendukung integrasi GitHub repository.
-2. Tambahkan URL repo ini: `https://github.com/adlnfkhrzmn/ai-creative`.
-3. AI akan membaca [SKILL.md](SKILL.md) dan [AGENTS.md](AGENTS.md) secara otomatis sebagai manual instruksi.
-
----
-
-## 🛠️ Cara Penggunaan di AI Agent / IDE
-
-Skill ini memenuhi standar terbuka **Agent Skills** dan kompatibel dengan:
-* **Antigravity CLI / IDE**
-* **Claude Code**
-* **Cursor / Windsurf**
-* **GitHub Copilot Workspace**
-
-Tinggal *clone* repository ini ke folder skills lokal Anda:
-```bash
-git clone https://github.com/adlnfkhrzmn/ai-creative.git
-```
-Agen AI Anda akan langsung mengenali pemicu `/brandstrategy` dan `/creative` saat Anda berinteraksi di terminal atau chat IDE!
-
----
-
-## 📂 Struktur Repositori
-
+### Cara 2: Penggunaan Langsung di Chat Biasa (Tanpa Custom GPT)
+Cukup buka chat baru di ChatGPT, salin teks [SKILL.md](SKILL.md) sebagai prompt awal, lalu langsung ketik:
 ```text
-ai-creative/
-├── examples/
-│   └── Brand-Guideline-Example.md   # Contoh nyata output guideline v1
-├── .gitignore                       # File exclusion list
-├── AGENTS.md                        # Konfigurasi sistem prompt untuk AI Agent
-├── README.md                        # Panduan visual dan instruksi eksekutif
-└── SKILL.md                         # Spesifikasi resmi standar Agent Skill
+/brandstrategy [link brand kamu]
 ```
 
 ---
 
 <div align="center">
 
-Dibuat dengan dedikasi untuk kreator, agensi, dan founder modern.  
+Dibuat dengan standar kreatif kelas dunia untuk agensi, founder, dan kreator modern.  
 **© 2026 [adlnfkhrzmn](https://github.com/adlnfkhrzmn). Open source di bawah lisensi MIT.**
 
 </div>
